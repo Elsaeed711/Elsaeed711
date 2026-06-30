@@ -1,29 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,45:565f89,100:7aa2f7&height=210&section=header&text=Void&fontSize=90&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Arch%20ricer%20%E2%80%A2%20networks%20%E2%80%A2%20security&descAlignY=60&descSize=18" width="100%"/>
+<img src="./header.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=Arch+%2B+Hyprland+ricer+%F0%9F%8C%8C;Networks%2C+packets+%26+pwn+%F0%9F%93%A1;Break+things+%E2%86%92+fix+them+better;rm+-rf+%2Fboredom)](https://github.com/Elsaeed711)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=7DCFFF&center=true&vCenter=true&width=640&lines=booting+void.exe+...;bypassing+firewall+...+done;%3E_ACCESS+GRANTED;whoami%3A+ricer+%2F+netsec+%2F+packets)](https://github.com/Elsaeed711)
 
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> whoami
+## `>` ./whoami
 
 ```ansi
-╭─ void@arch ──────────────────────────────────────╮
-│
-│   ❯ role      ricer · networks · security
-│   ❯ os        Arch Linux  (yes, btw)
-│   ❯ wm        Hyprland · Wayland · pywal everything
-│   ❯ shell     zsh · starship · a wall of aliases
-│   ❯ langs     Python · Bash · JavaScript · Lua
-│   ❯ tools     Docker · GNS3 · Obsidian · Wireshark
-│   ❯ doing     ricing, packets, and breaking things
-│   ❯ vibe      if it has a config file, it gets themed
-│
-╰──────────────────────────────────────────────────╯
+[2m[ root@void ][0m [32m#[0m ./identify --self
+[36m┌─[ IDENTITY CONFIRMED ]──────────────────────────┐[0m
+[36m│[0m  alias .....  [37;1mvoid[0m
+[36m│[0m  role ......  [35mricer · networks · security[0m
+[36m│[0m  os ........  [34mArch Linux[0m [2m// btw[0m
+[36m│[0m  shell .....  zsh · starship · alias overflow
+[36m│[0m  langs .....  python · bash · javascript · lua
+[36m│[0m  status ....  [32m● online[0m [2m— breaking, then fixing[0m
+[36m└─────────────────────────────────────────────────┘[0m
 ```
 
-## 🧰 Stack & Tools
+## `>` loaded modules
 
 <div align="center">
 
@@ -49,23 +46,15 @@
 
 </div>
 
-## 📊 Stats
+## `>` ./uplink
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com/?user=Elsaeed711&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsaeed711&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true"/>
-
-</div>
-
-
-## 🌌 Featured
-
-- 🪟 **[arch-hyprland-rice](https://github.com/Elsaeed711/arch-hyprland-rice)** — my Arch + Hyprland dotfiles & rice
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:565f89,100:1a1b26&height=120&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Elsaeed711-7aa2f7?style=flat-square&logo=github&logoColor=white)](https://github.com/Elsaeed711)
+[![Dotfiles](https://img.shields.io/badge/dotfiles-arch--hyprland--rice-bb9af7?style=flat-square&logo=hyprland&logoColor=white)](https://github.com/Elsaeed711/arch-hyprland-rice)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,50:bb9af7,100:f7768e&height=3&width=100%" width="100%"/>
+
+<div align="center"><sub><code>// connection closed by remote host</code></sub></div>
