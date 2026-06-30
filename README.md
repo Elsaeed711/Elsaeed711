@@ -53,16 +53,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Elsaeed711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Elsaeed711&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elsaeed711&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Elsaeed711&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=Elsaeed711&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elsaeed711&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&area=true"/>
 
 </div>
+
 
 ## 🌌 Featured
 
